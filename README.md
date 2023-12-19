@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=patilyashh&label=Profile%20views&color=000000&style=flat" alt="patilyashh" /> </p>
 
-- 🔭 I’m currently working on [Websites for my portfolio](patilyash.vercel.app)
+- 🔭 I’m currently working on [Websites for my portfolio](https://patilyash.vercel.app)
 
 - 🌱 I’m currently learning **AI development**
 
-- 👨‍💻 All of my projects are available at [patilyash.vercel.app](patilyash.vercel.app)
+- 👨‍💻 All of my projects are available at [https://patilyash.vercel.app](https://patilyash.vercel.app)
 
 - 💬 Ask me about **HTML , CSS , JAVASCRIPT,PYTHON , php , node.js**
 
-- 📄 Know about my experiences [patilyash.vercel.app](patilyash.vercel.app)
+- 📄 Know about my experiences [https://patilyash.vercel.app](https://patilyash.vercel.app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
