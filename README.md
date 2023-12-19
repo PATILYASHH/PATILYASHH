@@ -16,7 +16,8 @@
 
 - 📄 Know about my experiences [https://patilyash.vercel.app](https://patilyash.vercel.app)
 
-<h3 align="left">Connect with me:</h3>
+
+## 🌐 Socials:
 <p align="left">
 <a href="https://instagram.com/_patilyashh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_patilyashh" height="30" width="40" /></a>
 </p>
