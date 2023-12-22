@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Yash Patil</h1>
-<h3 align="center">HERE IS MY ALL WEBSITES AND PROJECTS</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=patilyashh&label=Profile%20views&color=000000&style=flat" alt="patilyashh" /> </p>
 
