@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://patilyash.vercel.app](https://patilyash.vercel.app)
 
--# 💻 Tech Stack:
+# 💻 Tech Stack:
 
 
 
