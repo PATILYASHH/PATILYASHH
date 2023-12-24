@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yash Patil</h1>
 
 
-<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Yash. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=patilyashh&label=Profile%20views&color=000000&style=flat" alt="patilyashh" /> </p>
+
 
 
 # 💫 About Me:
