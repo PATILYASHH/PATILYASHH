@@ -31,9 +31,7 @@
 ## 🌐 Socials:
 <p align="left">
 <a href="https://instagram.com/_patilyashh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_patilyashh" height="30" width="40" /></a>
-<a
 
-href="https://www.youtube.com/c/@i_am_yash_patil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@i_am_yash_patil" height="30" width="40" /></a>
 </p>
 
 
