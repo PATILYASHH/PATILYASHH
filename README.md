@@ -4,7 +4,7 @@
 🔭 I’m currently working on: Mastering Data Structures and Algorithms in C, while also developing personal projects to sharpen my programming skills.<br><br>👯 I’m looking to collaborate on: Open source projects related to software development, particularly those involving C, C++, Python, HTML, CSS, or JavaScript.<br><br>🤝 I’m looking for help with: Advancing my understanding of complex algorithms and problem-solving techniques, as well as exploring new technologies and tools in the field of software development.<br><br>🌱 I’m currently learning: Data Structures and Algorithms in C, and I'm also exploring new concepts and techniques to enhance my programming expertise.<br><br>💬 Ask me about: Anything related to programming languages like C, C++, Python, HTML, CSS, or JavaScript, as well as questions about data structures, algorithms, or software development in general.<br><br>⚡ Fun fact: I enjoy solving logic puzzles and brain teasers in my free time, and I'm a big fan of outdoor adventures like hiking and camping.
 
 
-## 🌐 Socials:
+## 🌐 Socials :
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_patilyashh) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/yashpatil_01) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@i_am_yash_patil) 
 
 # 💻 Tech Stack:
