@@ -52,3 +52,7 @@
 ---
 
 <a href="https://app.daily.dev/patilyash"><img src="https://api.daily.dev/devcards/v2/yGp7CAsw5QakXtwSXwq9K.png?r=ts4&type=wide" width="652" alt="Yash Patil's Dev Card"/></a>
+
+---
+## Chess.com Profile
+[![Chess.com](https://img.shields.io/badge/Chess.com-%23009ACD.svg?style=for-the-badge&logo=chess.com&logoColor=white)](https://www.chess.com/member/The_Yash_Patil)
