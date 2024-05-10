@@ -18,7 +18,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Patilyashh&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Patilyashh&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<a href="https://app.daily.dev/patilyash"><img src="https://api.daily.dev/devcards/v2/yGp7CAsw5QakXtwSXwq9K.png?r=ts4&type=wide" width="652" alt="Yash Patil's Dev Card"/></a>
 
 
 ## 🏆 GitHub Trophies
@@ -48,3 +47,4 @@
 
 ---
 
+<a href="https://app.daily.dev/patilyash"><img src="https://api.daily.dev/devcards/v2/yGp7CAsw5QakXtwSXwq9K.png?r=ts4&type=wide" width="652" alt="Yash Patil's Dev Card"/></a>
