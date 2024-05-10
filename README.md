@@ -34,3 +34,8 @@
 
 ---
 
+## HackerRank Profile
+[![HackerRank](https://img.shields.io/badge/HackerRank-%23239120.svg?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/patilyashh)
+
+---
+
