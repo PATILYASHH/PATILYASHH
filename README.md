@@ -46,5 +46,9 @@
 [![Website](https://img.shields.io/badge/Website-%23000000.svg?style=for-the-badge&logo=Google%20Chrome&logoColor=white)](https://patilyash.vercel.app)
 
 ---
+## Replit Profile
+[![Replit](https://img.shields.io/badge/Replit-%230D101E.svg?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/@yash0305)
+
+---
 
 <a href="https://app.daily.dev/patilyash"><img src="https://api.daily.dev/devcards/v2/yGp7CAsw5QakXtwSXwq9K.png?r=ts4&type=wide" width="652" alt="Yash Patil's Dev Card"/></a>
