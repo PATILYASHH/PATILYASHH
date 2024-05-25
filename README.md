@@ -61,6 +61,6 @@
 
 ---
 ## Chess.com Profile
-[![Chess.com](https://img.shields.io/badge/Chess.com-%23009ACD.svg?style=for-the-badge&logo=chess.com&logoColor=white)](https://www.chess.com/member/The_Yash_Patil)
+[![Chess.com](https://img.shields.io/badge/Chess.com-%23009ACD.svg?style=for-the-badge&logo=chess.com&logoColor=white)](https://www.chess.com/member/patilyashh)
 
 ---
