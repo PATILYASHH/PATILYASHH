@@ -60,6 +60,9 @@
 [![CodeChef](https://img.shields.io/badge/CodeChef-%235B4638.svg?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/patilyashh)
 
 ---
+## Codeforces
+[![Codeforces](https://img.shields.io/badge/Codeforces-%231F8ACB.svg?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/patilyashh)
+---
 
 <a href="https://app.daily.dev/patilyash"><img src="https://api.daily.dev/devcards/v2/yGp7CAsw5QakXtwSXwq9K.png?r=ts4&type=wide" width="652" alt="Yash Patil's Dev Card"/></a>
 
