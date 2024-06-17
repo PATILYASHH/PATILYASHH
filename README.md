@@ -76,6 +76,8 @@
 ---
 ## My GitHub Stats
 
-![GitHub Readme Stats](https://github-readme-stats.vercel.app/api?username=patilyashh&show_icons=true&theme=radical)
+![GitHub Readme Stats](https://github-readme-stats.vercel.app/api?username=patilyashh&show_icons=true&theme=blueberry)
 
-![GitHub Contributions Graph](https://ghchart.rshah.org/patilyashh)
+![GitHub Contributions Graph](https://ghchart.rshah.org/0066ff/patilyashh)
+
+![GitHub Profile Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=patilyashh&theme=blue)
