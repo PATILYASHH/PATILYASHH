@@ -74,10 +74,5 @@
 [![Chess.com](https://img.shields.io/badge/Chess.com-%23009ACD.svg?style=for-the-badge&logo=chess.com&logoColor=white)](https://www.chess.com/member/patilyashh)
 
 ---
-## My GitHub Stats
-
-![GitHub Readme Stats](https://github-readme-stats.vercel.app/api?username=patilyashh&show_icons=true&theme=blueberry)
-
+## Contribution Graph 
 ![GitHub Contributions Graph](https://ghchart.rshah.org/0066ff/patilyashh)
-
-![GitHub Profile Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=patilyashh&theme=blue)
