@@ -106,7 +106,9 @@
 ---
 ## Contributed Repositories
 
-[![Contributions](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)](https://github.com/PATILYASHH/PATILYASHH/blob/main/CONTRIBUTION.md)
+<a href="https://github.com/PATILYASHH/PATILYASHH/blob/main/CONTRIBUTION.md">
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="Contributions" width="50" height="50">
+</a>
 ---
 [![Sponsor PATILYASHH](https://img.shields.io/static/v1?label=Sponsor&message=PATILYASHH&color=blue)](https://github.com/sponsors/PATILYASHH)
 
