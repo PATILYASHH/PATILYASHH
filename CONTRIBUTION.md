@@ -2,4 +2,4 @@
 
 | **Repository**         | **Contribution Details**                                                                                      | **Website**                                       |
 |------------------------|----------------------------------------------------------------------------------------------------------------|---------------------------------------------------|
-| **GitHub-Error-Solve** |                                                                                                                | [Live Site](https://github-error-solve.vercel.app/) |
+| **GitHub-Error-Solve** | Favicon added                                                                                                              | [Live Site](https://github-error-solve.vercel.app/) |
