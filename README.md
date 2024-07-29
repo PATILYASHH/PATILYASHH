@@ -83,7 +83,7 @@
 ## Website
 [![Website](https://img.shields.io/badge/Website-%23000000.svg?style=for-the-badge&logo=Google%20Chrome&logoColor=white)](https://patilyash.vercel.app)
 
-[![App Store](https://img.shields.io/badge/App Store-%23000000.svg?style=for-the-badge&logo=Google%20Chrome&logoColor=white)](https://patilyash.vercel.app)
+[![App Store](https://img.shields.io/badge/App%20Store-%23000000.svg?style=for-the-badge&logo=Google%20Chrome&logoColor=white)](https://patilyash.vercel.app)
 
 ---
 ## Replit Profile
