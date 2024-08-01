@@ -85,7 +85,7 @@
 
 [![App Store](https://img.shields.io/badge/App%20Store-%23000000.svg?style=for-the-badge&logo=Google%20Chrome&logoColor=white)](https://yashstore.vercel.app)
 
-[![App Store](https://img.shields.io/badge/App%20Store-%23000000.svg?style=for-the-badge&logo=Google%20Chrome&logoColor=white)](https://yashstore.vercel.app)
+[![ezissue](https://img.shields.io/badge/ezissue-%23000000.svg?style=for-the-badge&logo=Google%20Chrome&logoColor=white)](https://ezissue.vercel.app)
 ---
 ## Replit Profile
 [![Replit](https://img.shields.io/badge/Replit-%230D101E.svg?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/@yash0305)
