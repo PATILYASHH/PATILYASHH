@@ -82,6 +82,7 @@
 [![My Portfolio](https://img.shields.io/badge/My%20Portfolio-%23000000.svg?style=for-the-badge&logo=Google%20Chrome&logoColor=white)](https://patilyash.vercel.app)
 [![App Store](https://img.shields.io/badge/App%20Store-%23000000.svg?style=for-the-badge&logo=Google%20Chrome&logoColor=white)](https://yashstore.vercel.app)
 [![ezissue](https://img.shields.io/badge/ezissue-%23000000.svg?style=for-the-badge&logo=Google%20Chrome&logoColor=white)](https://ezissue.vercel.app)
+[![blog website](https://img.shields.io/badge/blog%20website-%23000000.svg?style=for-the-badge&logo=Google%20Chrome&logoColor=white)](https://yashsblog.vercel.app)
 
 
 ## Contribution Graph 
