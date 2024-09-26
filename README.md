@@ -54,7 +54,7 @@
 ---
 # Achievements :
 
-![Your GSSoC ID](https://raw.githubusercontent.com/your-username/your-repository/main/path-to-image.jpeg)
+![Your GSSoC ID](https://github.com/PATILYASHH/PATILYASHH/blob/main/image.png)
 
 ---
 
