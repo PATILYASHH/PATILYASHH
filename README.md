@@ -52,11 +52,6 @@
 ![Google Search Console](https://img.shields.io/badge/Google_Search_Console-%23FF6F00.svg?style=for-the-badge&logo=google&logoColor=white)
 
 ---
-# Achievements :
-
-![Your GSSoC ID](https://github.com/PATILYASHH/PATILYASHH/blob/main/image.png)
-
----
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=patilyashh&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
