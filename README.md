@@ -53,13 +53,14 @@
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=patilyashh&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+<h2 align="center">Profile Stats</h2>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Patilyashh&theme=tokyonight&hide_border=false)<br/>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=PATILYASHH&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+<a href="https://github.com/patilyashh">
+   <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=patilyashh&theme=algolia"/>
+   <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=patilyashh&theme=algolia" />
+   <img height="191em" src="https://github-readme-stats.vercel.app/api?username=patilyashh&hide_border=true&show=reviews,prs_merged,prs_merged_percentage&theme=algolia" />
+   <img height="191em" src="https://github-readme-streak-stats.herokuapp.com/?user=patilyashh&theme=algolia&hide_border=true&stroke=0000" />
+</a>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Patilyashh&theme=discord&no-frame=false&no-bg=false&margin-w=4)
