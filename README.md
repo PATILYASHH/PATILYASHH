@@ -92,11 +92,3 @@
 [![Sage Coder](https://img.shields.io/badge/Sage%20Coder-%23000000.svg?style=for-the-badge&logo=Google%20Chrome&logoColor=white)](https://sagecoder.vercel.app/)
 
 
-
-## Contribution Graph 
-![GitHub Contributions Graph](https://ghchart.rshah.org/0066ff/patilyashh)
-
----
-
-
-
