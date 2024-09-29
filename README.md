@@ -3,11 +3,11 @@
 # 💫 About Me :
 
 
-🔭 I’m currently working on: Learning JavaScript and contributing to various repositories to sharpen my programming skills.
+🔭 I’m working on: Learning JavaScript and contributing to various repositories to sharpen my programming skills.
 
-👯 I’m looking to collaborate on: Open source projects related to software development, particularly those involving JavaScript, C, C++, Python, HTML, or CSS.
+👯 I’m looking to collaborate on open-source software development projects, particularly those involving JavaScript, C, C++, Python, HTML, or CSS.
 
-🤝 I’m looking for help with: Advancing my understanding of complex algorithms and problem-solving techniques, as well as exploring new technologies and tools in the field of software development.
+🤝 I’m looking for help with: Advancing my understanding of complex algorithms and problem-solving techniques, as well as exploring new technologies and tools in software development.
 
 🌱 I’m currently learning: JavaScript and exploring new concepts and techniques to enhance my programming expertise.
 
@@ -18,13 +18,32 @@
 ---
 
 ## 🌐 Socials :
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_patilyashh) 
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/yashpatil_01) 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@i_am_yash_patil) 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/invite/FwvNkwccqp)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:patilyasshh@gmail.com) 
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://www.reddit.com/user/patilyashh/) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/yash-patil-b2744a24a)
+
+<p align="center">
+  <a href="https://instagram.com/_patilyashh" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-fff?logo=Instagram&logoColor=E4405F&style=flat-square" alt="Instagram" />
+  </a>
+  <a href="https://x.com/yashpatil_01" target="_blank">
+    <img src="https://img.shields.io/badge/-X-fff?logo=X&logoColor=black&style=flat-square" alt="X" />
+  </a>
+  <a href="https://youtube.com/@i_am_yash_patil" target="_blank">
+    <img src="https://img.shields.io/badge/-YouTube-fff?logo=YouTube&logoColor=FF0000&style=flat-square" alt="YouTube" />
+  </a>
+  <a href="https://discord.com/invite/FwvNkwccqp" target="_blank">
+    <img src="https://img.shields.io/badge/-Discord-fff?logo=discord&logoColor=7289DA&style=flat-square" alt="Discord" />
+  </a>
+  <a href="mailto:patilyasshh@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-fff?logo=gmail&logoColor=D14836&style=flat-square" alt="Gmail" />
+  </a>
+  <a href="https://www.reddit.com/user/patilyashh/" target="_blank">
+    <img src="https://img.shields.io/badge/-Reddit-fff?logo=Reddit&logoColor=FF4500&style=flat-square" alt="Reddit" />
+  </a>
+  <a href="https://www.linkedin.com/in/yash-patil-b2744a24a" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-fff?logo=LinkedIn&logoColor=0077B5&style=flat-square" alt="LinkedIn" />
+  </a>
+</p>
+
+
 
 ---
 
