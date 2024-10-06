@@ -80,9 +80,10 @@
    <img height="191em" src="https://github-readme-stats.vercel.app/api?username=patilyashh&hide_border=true&show=reviews,prs_merged,prs_merged_percentage&theme=algolia" />
    <img height="191em" src="https://github-readme-streak-stats.herokuapp.com/?user=patilyashh&theme=algolia&hide_border=true&stroke=0000" />
 </a>
----
 
-## Achivements
+___
+
+## Achivements 🏆
 
 [![An image of @patilyashh4's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/patilyashh4)](https://holopin.io/@patilyashh4)
 
