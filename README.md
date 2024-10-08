@@ -12,7 +12,9 @@
 
 ⚡ Fun fact: I love logic puzzles and outdoor adventures!
 
----
+<!--Line-->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
 
 ## 🌐 Socials :
 
@@ -65,7 +67,9 @@
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Google Search Console](https://img.shields.io/badge/Google_Search_Console-%23FF6F00.svg?style=for-the-badge&logo=google&logoColor=white)
 
----
+<!--Line-->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
 
 <h2 align="center">Profile Stats</h2>
 
@@ -76,17 +80,23 @@
    <img height="191em" src="https://github-readme-streak-stats.herokuapp.com/?user=patilyashh&theme=algolia&hide_border=true&stroke=0000" />
 </a>
 
-___
+<!--Line-->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
 
 ## Achivements 🏆
 
 [![An image of @patilyashh4's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/patilyashh4)](https://holopin.io/@patilyashh4)
 
----
+<!--Line-->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Patilyashh&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
----
+<!--Line-->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
 [![](https://visitcount.itsvg.in/api?id=Patilyashh&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
@@ -94,9 +104,13 @@ ___
 ![](https://github-contributor-stats.vercel.app/api?username=PATILYASHH&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 
----
+<!--Line-->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
 ![68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f363837343734373037333361326632663639326537303639366536393664363732653633366636643266366637323639363736393665363136](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)
----
+<!--Line-->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
 ## My Coding Profiles
 
 [![HackerRank](https://img.shields.io/badge/HackerRank-%23239120.svg?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/patilyashh)
@@ -105,7 +119,9 @@ ___
 [![CodeChef](https://img.shields.io/badge/CodeChef-%235B4638.svg?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/patilyashh)
 [![InterviewBit](https://img.shields.io/badge/InterviewBit-%23325F80.svg?style=for-the-badge&logo=InterviewBit&logoColor=white)](https://www.interviewbit.com/profile/patilyashh)
 
----
+<!--Line-->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
 ## Websites
 [![My Portfolio](https://img.shields.io/badge/My%20Portfolio-%23000000.svg?style=for-the-badge&logo=Google%20Chrome&logoColor=white)](https://www.yashpatil.tech)
 [![App Store](https://img.shields.io/badge/App%20Store-%23000000.svg?style=for-the-badge&logo=Google%20Chrome&logoColor=white)](https://yashstore.vercel.app)
