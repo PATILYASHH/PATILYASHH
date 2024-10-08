@@ -1,19 +1,16 @@
 
 
-# 💫 About Me :
+# 💫 About Me
 
+🔭 Currently learning JavaScript and contributing to open-source projects.
 
-🔭 I’m working on: Learning JavaScript and contributing to various repositories to sharpen my programming skills.
+👯 Open to collaboration on projects involving JavaScript, C, C++, Python, HTML, or CSS.
 
-👯 I’m looking to collaborate on open-source software development projects, particularly those involving JavaScript, C, C++, Python, HTML, or CSS.
+🤝 Seeking help with algorithms and exploring new tech tools.
 
-🤝 I’m looking for help with: Advancing my understanding of complex algorithms and problem-solving techniques, as well as exploring new technologies and tools in software development.
+💬 Ask me about programming languages or software development.
 
-🌱 I’m currently learning: JavaScript and exploring new concepts and techniques to enhance my programming expertise.
-
-💬 Ask me about: Anything related to programming languages like JavaScript, C, C++, Python, HTML, or CSS, as well as data structures, algorithms, or software development in general.
-
-⚡ Fun fact: I enjoy solving logic puzzles and brain teasers in my free time, and I'm a big fan of outdoor adventures like hiking and camping.
+⚡ Fun fact: I love logic puzzles and outdoor adventures!
 
 ---
 
