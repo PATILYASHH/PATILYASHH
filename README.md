@@ -86,7 +86,11 @@
 
 ## Achivements 🏆
 
+- **Hacktoberfest 2024**
+
 [![An image of @patilyashh4's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/patilyashh4)](https://holopin.io/@patilyashh4)
+
+- **GSSoC Extd 2024**
 
 <table>
   <tr align="center">
@@ -99,11 +103,6 @@
       <img src="https://github.com/ananyag309/ananyag309/blob/main/Adventurer%20Badge.png" alt="Adventurer Badge" width="80" />
       <br>
       <strong>Adventurer Badge</strong>
-    </td>
-    <td style="padding: 10px;" width="100">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/4/46/GSSoC_Logo.png" alt="GSSoC 2024 Extd" width="80" />
-      <br>
-      <strong>GSSoC 2024 Extd</strong>
     </td>
   </tr>
 </table>
