@@ -95,10 +95,15 @@
       <br>
       <strong>Explorer Badge</strong>
     </td>
-    <td style="padding: 10px;" width="100">
+    <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
       <img src="https://github.com/ananyag309/ananyag309/blob/main/Adventurer%20Badge.png" alt="Adventurer Badge" width="80" />
       <br>
       <strong>Adventurer Badge</strong>
+    </td>
+    <td style="padding: 10px;" width="100">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/4/46/GSSoC_Logo.png" alt="GSSoC 2024 Extd" width="80" />
+      <br>
+      <strong>GSSoC 2024 Extd</strong>
     </td>
   </tr>
 </table>
