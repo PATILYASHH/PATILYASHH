@@ -91,7 +91,7 @@
 [![An image of @patilyashh4's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/patilyashh4)](https://holopin.io/@patilyashh4)
 
 - **GSSoC Extd 2024**
-
+<a href="https://yashpatil.tech">
 <table>
   <tr align="center">
     <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
@@ -106,6 +106,7 @@
     </td>
   </tr>
 </table>
+</a>
 
 <!--Line-->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
