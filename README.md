@@ -145,4 +145,10 @@
 [![blog website](https://img.shields.io/badge/blog%20website-%23000000.svg?style=for-the-badge&logo=Google%20Chrome&logoColor=white)](https://yashblogs.vercel.app/)
 [![Sage Coder](https://img.shields.io/badge/Sage%20Coder-%23000000.svg?style=for-the-badge&logo=Google%20Chrome&logoColor=white)](https://sagecoder.vercel.app/)
 
+<!--Line-->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PATILYASHH&theme=synthwave-84&true&hide_border=true" />
+</div>
 
