@@ -99,7 +99,7 @@
 <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
 <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
 <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="105px" height="105px" /> 
-<img src="https://gssoc.girlscript.tech/badges/web3hack.png?imwidth=96" width="100px" height="100px" />
+<img src="https://media.licdn.com/dms/image/v2/D5622AQG9ZuFEGj10SA/feedshare-shrink_800/feedshare-shrink_800/0/1730989004472?e=2147483647&v=beta&t=qaZbWhGkkvpYEO-Uql6BgTH1FrtYydlI4XMuoT2Gmek" width="100px" height="100px" />
   
 </a>
 </div>
