@@ -100,9 +100,14 @@
 <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
 <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="105px" height="105px" /> 
 <img src="https://media.licdn.com/dms/image/v2/D5622AQG9ZuFEGj10SA/feedshare-shrink_800/feedshare-shrink_800/0/1730989004472?e=2147483647&v=beta&t=qaZbWhGkkvpYEO-Uql6BgTH1FrtYydlI4XMuoT2Gmek" width="100px" height="100px" />
-  
-</a>
-</div>
+
+ </div>
+ 
+  - **Google Developer badge**
+<img src="https://developers.google.com/static/profile/badges/playlists/solutions/ai-gemini-getting-started-android/badge.svg" width="100px](https://developers.google.com/static/profile/badges/playlists/solutions/ai-gemini-getting-started-android/badge.svg)" height="100px" />
+    
+
+
 
 <!--Line-->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
