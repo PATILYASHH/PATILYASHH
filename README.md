@@ -108,6 +108,7 @@
 <img src="https://developers.google.com/static/profile/badges/playlists/solutions/ai-gemini-getting-started-android/badge.svg" width="100px" height="100px" />
 <img src="https://developers.google.com/static/profile/badges/profile/created-profile/created_profile.svg" width="100px" height="100px" />
 <img src="https://developers.google.com/static/profile/badges/recognitions/learnings/learnings.svg" width="105px" height="105px" /> 
+<img src="https://developers.google.com/static/profile/badges/community/innovators/cloud/2021_member/badge.svg" width="105px" height="105px" />
 </div>
 
 <!--Line-->
