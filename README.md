@@ -104,10 +104,11 @@
  </div>
  
   - **Google Developer badge**
-<img src="https://developers.google.com/static/profile/badges/playlists/solutions/ai-gemini-getting-started-android/badge.svg" width="100px](https://developers.google.com/static/profile/badges/playlists/solutions/ai-gemini-getting-started-android/badge.svg)" height="100px" />
-    
-
-
+<div style='display: flex; align-items:center; gap: "10px";' align='center'>
+<img src="https://developers.google.com/static/profile/badges/playlists/solutions/ai-gemini-getting-started-android/badge.svg" width="100px" height="100px" />
+<img src="https://developers.google.com/static/profile/badges/profile/created-profile/created_profile.svg" width="100px" height="100px" />
+<img src="https://developers.google.com/static/profile/badges/recognitions/learnings/learnings.svg" width="105px" height="105px" /> 
+</div>
 
 <!--Line-->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
