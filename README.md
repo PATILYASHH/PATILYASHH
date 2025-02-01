@@ -80,7 +80,7 @@
    <img height="191em" src="https://github-readme-streak-stats.herokuapp.com/?user=patilyashh&theme=algolia&hide_border=true&stroke=0000" />
 </a>
 
-<div>
+<div style='display: flex; align-items:center; gap: "10px";' align='center' >
   <img src="https://leetcard.jacoblin.cool/patilyashh?&theme=dark&" height="180" width="400" />
 </div>
 <!--Line-->
