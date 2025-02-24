@@ -157,4 +157,3 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=PATILYASHH&theme=synthwave-84&true&hide_border=true" />
 </div>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=patilyashh-dev&label=Profile%20views&color=0e75b6&style=flat" alt="patilyashh" /> </p>
