@@ -1,5 +1,4 @@
 
-
 # 💫 About Me
 
 🔭 Currently learning JavaScript and contributing to open-source projects.
