@@ -4,7 +4,7 @@
 <h3 align="center">💻 Developer | 🚀 AI/ML Enthusiast | 🌐 Tech Explorer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Freelancer+%7C+Developer+%7C+Open-Source+Contributor;Exploring+AI%2FML+%26+New+Tech;Always+learning+%26+building!" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Freelancer+%7C+Open-Source+Contributor;Exploring+AI%2FML+%26+New+Tech;Always+learning+%26+building!;Like+To+Build+Things" alt="Typing animation" />
 </p>
 
 ---
