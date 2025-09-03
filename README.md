@@ -1,5 +1,13 @@
 
+<!-- HEADER -->
+<h1 align="center">Hi 👋, I'm Yash Patil</h1>
+<h3 align="center">💻 Developer | 🚀 AI/ML Enthusiast | 🌐 Tech Explorer</h3>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Freelancer+%7C+Developer+%7C+Open-Source+Contributor;Exploring+AI%2FML+%26+New+Tech;Always+learning+%26+building!" alt="Typing animation" />
+</p>
+
+---
 # 💫 About Me
 
 🔭 Currently working on my projects, freelancing, and learning AI/ML.
