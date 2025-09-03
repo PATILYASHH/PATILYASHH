@@ -19,27 +19,28 @@
 
 <p align="center">
   <a href="https://instagram.com/patilyasshh" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-fff?logo=Instagram&logoColor=E4405F&style=flat-square" alt="Instagram" />
+    <img src="https://img.icons8.com/fluency/48/instagram-new.png"/>
   </a>
   <a href="https://x.com/yashpatil_01" target="_blank">
-    <img src="https://img.shields.io/badge/-X-fff?logo=X&logoColor=black&style=flat-square" alt="X" />
+    <img src="https://img.icons8.com/fluency/48/twitter.png"/>
   </a>
   <a href="https://youtube.com/@i_am_yash_patil" target="_blank">
-    <img src="https://img.shields.io/badge/-YouTube-fff?logo=YouTube&logoColor=FF0000&style=flat-square" alt="YouTube" />
+    <img src="https://img.icons8.com/fluency/48/youtube-play.png"/>
   </a>
   <a href="https://discord.com/invite/FwvNkwccqp" target="_blank">
-    <img src="https://img.shields.io/badge/-Discord-fff?logo=discord&logoColor=7289DA&style=flat-square" alt="Discord" />
+    <img src="https://img.icons8.com/fluency/48/discord-logo.png"/>
   </a>
   <a href="mailto:patilyasshh@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-fff?logo=gmail&logoColor=D14836&style=flat-square" alt="Gmail" />
+    <img src="https://img.icons8.com/fluency/48/gmail-new.png"/>
   </a>
   <a href="https://www.reddit.com/user/patilyashh/" target="_blank">
-    <img src="https://img.shields.io/badge/-Reddit-fff?logo=Reddit&logoColor=FF4500&style=flat-square" alt="Reddit" />
+    <img src="https://img.icons8.com/fluency/48/reddit.png"/>
   </a>
   <a href="https://www.linkedin.com/in/yash-patil-b2744a24a" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-fff?logo=LinkedIn&logoColor=0077B5&style=flat-square" alt="LinkedIn" />
+    <img src="https://img.icons8.com/fluency/48/linkedin.png"/>
   </a>
 </p>
+
 
 
 
