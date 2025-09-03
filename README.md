@@ -18,7 +18,7 @@
 ## 🌐 Socials :
 
 <p align="center">
-  <a href="https://instagram.com/_patilyashh" target="_blank">
+  <a href="https://instagram.com/patilyasshh" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-fff?logo=Instagram&logoColor=E4405F&style=flat-square" alt="Instagram" />
   </a>
   <a href="https://x.com/yashpatil_01" target="_blank">
