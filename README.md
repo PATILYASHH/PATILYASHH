@@ -103,7 +103,7 @@
 
 ## Achivements 🏆
 
-- **Hacktoberfest 2024**
+- **Hacktoberfest 2024 & 2025**
 
 [![An image of @patilyashh4's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/patilyashh4)](https://holopin.io/@patilyashh4)
 
