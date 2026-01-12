@@ -1,29 +1,49 @@
-
 <!-- HEADER -->
 <h1 align="center">Hi 👋, I'm Yash Patil</h1>
-<h3 align="center">💻 Developer | 🚀 AI/ML Enthusiast | 🌐 Tech Explorer</h3>
+<h3 align="center">
+💻 Software Developer @ Bana Metaliks Pvt. Ltd. | 🚀 Building Production-Grade Systems
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Freelancer+%7C+Open-Source+Contributor;Exploring+AI%2FML+%26+New+Tech;Always+learning+%26+building!;Like+To+Build+Things" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Software+Developer+at+Bana+Metaliks;Building+Internal+ERP+%26+Automation+Systems;Backend+Focused+%7C+Full-Stack+When+Needed;Real+World+Manufacturing+Software" alt="Typing animation" />
 </p>
 
 ---
+
 # 💫 About Me
 
-🔭 Currently working on my projects, freelancing, and learning AI/ML.
+💼 I am a **Software Developer at Bana Metaliks Pvt. Ltd.**, working on **internal business software and automation systems** for manufacturing and foundry operations.
 
-👯 Open to collaboration on projects involving JavaScript, C, C++, Python, HTML, or CSS.
+🔧 My day-to-day work involves building **custom ERP modules, backend services, and role-based systems** that handle real production data — not demo projects.
 
-🤝 Seeking help with algorithms and exploring new tech tools.
+🏭 **What I focus on:**
+- Manufacturing & foundry process automation  
+- Internal ERP systems and dashboards  
+- Secure multi-user applications with access control  
+- Backend-heavy, data-driven software  
 
-💬 Ask me about programming languages or software development.
+🚀 Outside of work, I contribute to open-source projects and build tools that solve **actual operational problems**, not just portfolio fillers.
 
+💬 Ask me about **backend architecture, ERP systems, databases, or production-ready software design**.
 
 <!--Line-->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
+## 💼 Professional Experience
 
-## 🌐 Socials :
+### Software Developer — Bana Metaliks Pvt. Ltd.
+📍 India | 🕒 Full-Time
+
+- Developing and maintaining **internal ERP and business management software**
+- Designing **database schemas, APIs, and role-based access control**
+- Automating manual workflows to improve efficiency and data accuracy
+- Working directly with management to convert business requirements into software solutions
+- Maintaining and improving existing systems used in daily operations
+
+<!--Line-->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+## 🌐 Socials
 
 <p align="center">
   <a href="https://instagram.com/patilyasshh" target="_blank">
@@ -49,62 +69,60 @@
   </a>
 </p>
 
+<!--Line-->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
+## 💻 Tech Stack
 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+### 🧠 Programming Languages
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Stripe](https://img.shields.io/badge/stripe-%23000000.svg?style=for-the-badge&logo=stripe&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Frappe](https://img.shields.io/badge/Frappe%20Framework-0089FF.svg?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php)
+![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity)
+![Shell Script](https://img.shields.io/badge/Shell_Script-%23121011.svg?style=for-the-badge&logo=gnu-bash)
 
+---
 
+### 🌐 Frontend & UI
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3)
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap)
+![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?style=for-the-badge&logo=markdown)
 
+---
+
+### ⚙️ Backend, Frameworks & APIs
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet)
+![Frappe](https://img.shields.io/badge/Frappe_Framework-0089FF?style=for-the-badge&logo=python)
+
+---
+
+### 🗄️ Databases & Storage
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql)
+![Supabase](https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase)
+![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+
+---
+
+### ☁️ Cloud, DevOps & Tools
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify)
+![Stripe](https://img.shields.io/badge/Stripe-000000?style=for-the-badge&logo=stripe)
 
 <!--Line-->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
-
-<h2 align="center">Profile Stats</h2>
-
-<a href="https://github.com/patilyashh">
-   <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=patilyashh&theme=algolia"/>
-   <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=patilyashh&theme=algolia" />
-   <img height="191em" src="https://github-readme-stats.vercel.app/api?username=patilyashh&hide_border=true&show=reviews,prs_merged,prs_merged_percentage&theme=algolia" />
-   <img height="191em" src="https://github-readme-streak-stats.herokuapp.com/?user=patilyashh&theme=algolia&hide_border=true&stroke=0000" />
-</a>
-
-<div style='display: flex; align-items:center; gap: "10px";' align='center' >
-  <img src="https://leetcard.jacoblin.cool/patilyashh?&theme=dark&" height="180" width="400" />
-</div>
-<!--Line-->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
 
 ## Achivements 🏆
 
@@ -142,39 +160,26 @@
 <!--Line-->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Patilyashh&theme=discord&no-frame=false&no-bg=false&margin-w=4)
-
-
 
 <!--Line-->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-
-<img align="right" src="https://github.com/SankshipthShetty/SankshipthShetty/assets/99337968/2bd05422-3a3b-4d7c-94a1-7cdb584c09d7" alt="Profile Image" width="300"/>
-
-<!--Line-->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
-
-## My Coding Profiles
+## 🧠 Coding Profiles
 
 [![HackerRank](https://img.shields.io/badge/HackerRank-%23239120.svg?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/patilyashh)
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/PATILYASHH)
-[![Replit](https://img.shields.io/badge/Replit-%230D101E.svg?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/@yash0305)
 [![CodeChef](https://img.shields.io/badge/CodeChef-%235B4638.svg?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/patilyashh)
-[![InterviewBit](https://img.shields.io/badge/InterviewBit-%23325F80.svg?style=for-the-badge&logo=InterviewBit&logoColor=white)](https://www.interviewbit.com/profile/patilyashh)
 
 <!--Line-->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-## Websites
-[![My Portfolio](https://img.shields.io/badge/My%20Portfolio-%23000000.svg?style=for-the-badge&logo=Google%20Chrome&logoColor=white)](https://www.yashpatil.tech)
+## 🌐 Portfolio
 
+[![My Portfolio](https://img.shields.io/badge/My%20Portfolio-%23000000.svg?style=for-the-badge&logo=Google%20Chrome&logoColor=white)](https://www.yashpatil.tech)
 
 <!--Line-->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PATILYASHH&theme=synthwave-84&true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PATILYASHH&theme=synthwave-84&hide_border=true" />
 </div>
