@@ -103,39 +103,44 @@
 <!--Line-->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-## 🏆 Achievements
+## Achivements 🏆
 
 - **Hacktoberfest 2024 & 2025**
-- **GSSoC Extended 2024**
-- **Google Developer Profile Badges**
-- **Devpost Achievements**
 
-[![Holopin](https://holopin.me/patilyashh4)](https://holopin.io/@patilyashh4)
+[![An image of @patilyashh4's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/patilyashh4)](https://holopin.io/@patilyashh4)
 
-<!--Line-->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+- **GSSoC Extd 2024**
+<div style='display: flex; align-items:center; gap: "10px";' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
+<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
+<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
+<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
+<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
+<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
+<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
+<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="105px" height="105px" /> 
+<img src="https://media.licdn.com/dms/image/v2/D5622AQG9ZuFEGj10SA/feedshare-shrink_800/feedshare-shrink_800/0/1730989004472?e=2147483647&v=beta&t=qaZbWhGkkvpYEO-Uql6BgTH1FrtYydlI4XMuoT2Gmek" width="100px" height="100px" />
 
-## 📊 GitHub Stats
+ </div>
+ 
+  - **Google Developer badge**
+<div style='display: flex; align-items:center; gap: "10px";' align='center'>
+<img src="https://developers.google.com/static/profile/badges/playlists/solutions/ai-gemini-getting-started-android/badge.svg" width="100px" height="100px" />
+<img src="https://developers.google.com/static/profile/badges/profile/created-profile/created_profile.svg" width="100px" height="100px" />
+<img src="https://developers.google.com/static/profile/badges/recognitions/learnings/learnings.svg" width="105px" height="105px" /> 
+<img src="https://developers.google.com/static/profile/badges/community/innovators/cloud/2021_member/badge.svg" width="105px" height="105px" />
+<img src="https://developers.google.com/static/profile/badges/community/tec/member/badge.svg" width="105px" height="105px" />
+</div>
 
-<p align="center">
-  <img height="160em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=patilyashh&theme=algolia"/>
-  <img height="160em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=patilyashh&theme=algolia"/>
-</p>
-
-<p align="center">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=patilyashh&hide_border=true&show=reviews,prs_merged,prs_merged_percentage&theme=algolia"/>
-  <img height="190em" src="https://github-readme-streak-stats.herokuapp.com/?user=patilyashh&theme=algolia&hide_border=true"/>
-</p>
-
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/patilyashh?theme=dark" height="180" width="400"/>
+  - **Devpost Achievements**
+<div style='display: flex; align-items:center; gap: "10px";' align='center'>
+<img src="https://d112y698adiu2z.cloudfront.net/photos/production/achievement_photos/001/087/220/datas/d431f7b4f3a71b2b35881ea755e24613_medium.png" width="100px" height="100px" />
 </div>
 
 <!--Line-->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=PATILYASHH&theme=discord&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Patilyashh&theme=discord&no-frame=false&no-bg=false&margin-w=4)&theme=discord&margin-w=4)
 
 <!--Line-->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
