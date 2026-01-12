@@ -139,8 +139,6 @@
 <!--Line-->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Patilyashh&theme=discord&no-frame=false&no-bg=false&margin-w=4)&theme=discord&margin-w=4)
 
 <!--Line-->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
