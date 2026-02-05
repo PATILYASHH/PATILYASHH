@@ -121,6 +121,13 @@
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify)
 ![Stripe](https://img.shields.io/badge/Stripe-000000?style=for-the-badge&logo=stripe)
 
+---
+
+### 📱 Mobile App Development
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart)
+
+
 <!--Line-->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
