@@ -14,7 +14,7 @@
 
 💼 I am a **Software Developer at Bana Metaliks Pvt. Ltd.**, working on **internal business software and automation systems** for manufacturing and foundry operations.
 
-🔧 My day-to-day work involves building **custom ERP modules, backend services, and role-based systems** that handle real production data — not demo projects.
+🔧 My day-to-day work involves building **custom ERP modules, backend services, and role-based systems** that handle real production data
 
 🏭 **What I focus on:**
 - Manufacturing & foundry process automation  
