@@ -16,15 +16,13 @@
 
 🔧 My day-to-day work involves building **backend systems, custom ERP modules, and role-based platforms** that handle live operational data.
 
-🤖 Alongside my job, I build **autonomous AI systems and system-level control tools** focused on real-world execution, not just interfaces.
+🤖 Alongside my job, I build **autonomous AI systems and system-level control tools** focused on real-world execution.
 
-🏭 **What I focus on:**
-- Manufacturing & foundry process automation  
+🏭 **What I focus on:** 
 - Internal ERP systems and dashboards  
 - Secure multi-user applications with access control  
 - Backend-heavy, data-driven systems  
 
-⚡ I build systems that are actually used — not just portfolio demos.
 
 💬 Ask me about **backend architecture, ERP systems, system automation, or production-ready software design**.
 
