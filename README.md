@@ -12,7 +12,6 @@
 - 🧰 I work mostly with **C, JavaScript, TypeScript**
 - 📍 Based in **Kolhapur, India**
 - 🏢 At **Bana Metaliks**
-- 📊 **4,073 contributions · 35-day longest streak · 145 stars earned**
 
 ## 🛠️ Tech Stack
 
